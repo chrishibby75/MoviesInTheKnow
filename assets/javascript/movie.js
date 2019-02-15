@@ -71,12 +71,12 @@ $(document).ready(function(){
 
     // Initialize Firebase
     var config = {
-    apiKey: "AIzaSyDw6GM_E3CMyhSf9ErZJJNdY3bEfJyIZvM",
-    authDomain: "project1-movies.firebaseapp.com",
-    databaseURL: "https://project1-movies.firebaseio.com",
-    projectId: "project1-movies",
-    storageBucket: "project1-movies.appspot.com",
-    messagingSenderId: "175120493064"
+      apiKey: "AIzaSyCNIN5q5cQKLaFiG6_FFzgyfPTxuluAm80",
+      authDomain: "project1-movies-33d3c.firebaseapp.com",
+      databaseURL: "https://project1-movies-33d3c.firebaseio.com",
+      projectId: "project1-movies-33d3c",
+      storageBucket: "project1-movies-33d3c.appspot.com",
+      messagingSenderId: "513428484823"
   };
   firebase.initializeApp(config);
 
